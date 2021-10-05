@@ -17,5 +17,5 @@ The full document can be found in the [LICENSE][5] file.
 [1]: https://github.com/jhhoward
 [2]: https://github.com/jhhoward/Arduboy3D
 [3]: https://github.com/argeX-official/Game-Arduboy3D/blob/master/OLD_readme.md
-[4]: https://github.com/argeX-official/Game-Arduboy3D/blob/master/Arduboy3D_for_watchX.hex
+[4]: https://github.com/argeX-official/Game-Arduboy3D/releases/tag/1.0
 [5]: https://github.com/argeX-official/Game-Arduboy3D/blob/master/LICENSE
