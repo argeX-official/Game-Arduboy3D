@@ -1,4 +1,4 @@
-## **Game**
+## **Arduboy3D**
 
 <img src="Images/demo.gif" width="30%"><br/>
 
